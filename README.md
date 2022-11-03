@@ -1,2 +1,3 @@
 # plotly
-Repositório para explorações feitas com o Plotly
+
+Repositório para exploração dos dados de óbitos no trânsito do Litoral Norte no Plotly.
